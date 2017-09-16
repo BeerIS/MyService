@@ -30,4 +30,13 @@
         android:background="#ffdd00"
         android:layout_width="100dp"
         android:layout_height="50dp"/>
+
+    <Button
+        android:id="@+id/btnGoToSecond"
+        android:layout_alignParentBottom="true"
+        android:text="Go to second"
+        android:background="@color/colorPrimary"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
